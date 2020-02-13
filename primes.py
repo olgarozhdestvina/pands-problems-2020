@@ -5,11 +5,11 @@
 P = []
 #Loop through all of the numbers we#re checking for primality 
 
-for i in range(2, 3000):
+for i in range(2, 100000):
     # Assume that i is a prime
     isprime= True
     # Loop through all values j from 2 up to but not incl i
-    for j in range(2, i):
+    for j in P: #instead of range
         # See if j divides i
         if i % j == 0:
             # If it does, i isn't a prime so exit the loop
