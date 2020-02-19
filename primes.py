@@ -1,20 +1,8 @@
 # Olga Rozhdestvina
 # Computing the primes
 
-import math
-
-def isprime(i):
-    # Loop through all values j from 2 up to but not incl i
-    for j in range(2, math.floor(math.sqrt(i))):
-        # See if j divides i
-        if i % j == 0:
-            # If it does, i isn't a prime so exit the loop
-            return False
-    return True
-
-
-
-    
+from functions import isprime
+ 
 # My list of primes - TBD
 P = []
 #Loop through all of the numbers we#re checking for primality 
