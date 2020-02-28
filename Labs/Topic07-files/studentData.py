@@ -1,10 +1,6 @@
 # Olga Rozhdestvina
-# Adding into last week program a new menue item Save.
-#  When the user selects the doSave() function should be called 
-
-# Olga Rozhdestvina
-# Program that  that allows a user to
-# create new students and to view students. 
+# Adding into last week program a new menue item Saveand Load.
+#  When the user selects the doSave() and doLoad() functions should be called 
 
 students = []
 import json
