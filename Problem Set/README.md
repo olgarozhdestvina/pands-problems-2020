@@ -20,7 +20,7 @@
 
      ​	An example of running this program: 
 
-  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/bmi.py.jpg)
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the code/bmi.py.jpg)
 
 
 
