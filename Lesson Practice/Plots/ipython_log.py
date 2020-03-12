@@ -1,21 +1,18 @@
 # IPython log file
 
-import pandas as pd
-get_ipython().run_line_magic('logstart', '')
-pd.read.cvs("http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv")
-pd.read.csv("http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv")
-pd.read_csv("http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv")
-df = pd.read_csv("http://www.biostat.jhsph.edu/~rpeng/useRbook/faithful.csv")
-df["erruptions"]
-df
-df["erruptions"]
-df["eruptions"]
-df["waiting"]
-import matplotlip.pyplot as plt
+import numpy as np
 import matplotlib.pyplot as plt
-plt.plot(df["eruptions"],df["waiting"], "b.")
-plt.hist(df["eruptions"])
-plt.savefig("hist.png")
-plt.hist(df["eruptions"])
-plt.savefig("hist.png")
-quit()
+
+x = np.linspace(1.0, 100.0, 100)
+y1 = x**2
+y2 = 2**x
+plt.legend()
+plt.title("Hello, World!")
+plt.xlabel("Hello, X!")
+plt.ylabel("Hello, Y!")
+
+
+plt.plot(x, y1, "g.", label = "squared")
+plt.plot(x, y2, "r.", label = "exponential")
+plt.plot(x, np.log(y1), "g.", label = "squared")
+plt.plot(x, np.log(y2), "r.", label = "exponential")
