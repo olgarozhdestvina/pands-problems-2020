@@ -17,7 +17,7 @@
 
   ​	An example of running this program:
 
-  ![] (https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set/Examples%20of%20running%20the%20code/bmi.py.jpg)
+  ![] (https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/bmi.py.jpg)
 
 2. <u>*secondstring.py*</u>
 
