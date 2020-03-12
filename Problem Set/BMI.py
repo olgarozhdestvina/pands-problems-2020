@@ -9,4 +9,4 @@ squareOfHeight = height ** 2 / 10000 # convert cm to m
 BMI = weight / squareOfHeight
 print("Your BMI is {:.2f}".format(BMI)) 
 
-#{:.2f} found here https://stackoverflow.com/questions/5202233/how-to-change-39-54484700000000-to-39-54-and-using-python
+# Rounding to two decimal places found here https://stackoverflow.com/questions/5202233/how-to-change-39-54484700000000-to-39-54-and-using-python
