@@ -14,74 +14,74 @@
 
 1. ***bmi.py***
     	
-    	​	A program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
+    	A program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
     	
-    	  ​	An example of running this program: 
+    	An example of running this program: 
 
-  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/bmi.py.jpg)
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/bmi.py.jpg)
 
 
 
 2. ***secondstring.py***
 
-     ​	A program that takes asks a user to input a string and outputs every second letter in reverse order.
+        A program that takes asks a user to input a string and outputs every second letter in reverse order.
 
-     ​	An example of running this program:
+        An example of running this program:
 
-  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/secondstring.py.jpg)
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/secondstring.py.jpg)
 
 
 
 3. ***collatz.py***
 
-   ​	A program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
+        A program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
 
-   ​	An example of running this program: 
+        An example of running this program: 
 
-   ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/collatz.py.jpg) 
+   ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/collatz.py.jpg) 
 
    
 
 4. ***weekday.py***
 
 
-     ​	A program that outputs whether or not today is a weekday. 
+        A program that outputs whether or not today is a weekday. 
 
-     ​	An example of running this program on Thursday:
+        An example of running this program on Thursday:
 
-  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/weekday.py Thursday.jpg)
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py%20Thursday.jpg)
 
-      ​	An example of running this program on Saturday:
+        An example of running this program on Saturday:
 
   
 5. ***squareroot.py***
 
 
-     ​	A program that takes a positive floating-point number as input and outputs an approximation of its square root. 
+        A program that takes a positive floating-point number as input and outputs an approximation of its square root. 
 
-     ​	An example of running this program:
+        An example of running this program:
 
 
-![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/squareroot.py.jpg) 
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/squareroot.py.jpg) 
 
 
 
 6. ***es.py***
 
 
-     ​	A program that reads in a text file and outputs the number of e's it contains. 
+        A program that reads in a text file and outputs the number of e's it contains. 
 
-     ​	An example of running this program:
+        An example of running this program:
 
 
-![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/es.py.jpg) 
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/es.py.jpg) 
 
 
 7. ***plot.py***
 
-   ​	A program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
+        A program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 
-   ​	An example of running this program:
+        An example of running this program:
 
 
 ------
