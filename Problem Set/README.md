@@ -14,9 +14,9 @@
 
 1. ***bmi.py***
     	
-    	A program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
+    ​	A program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
     	
-    	An example of running this program: 
+   ​	An example of running this program: 
 
   ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/bmi.py.jpg)
 
