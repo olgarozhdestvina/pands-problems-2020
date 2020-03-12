@@ -30,7 +30,7 @@
 
      ​	An example of running this program:
 
-  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/secondstring.py.jpg)
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/secondstring.py.jpg)
 
 
 
@@ -40,7 +40,7 @@
 
    ​	An example of running this program: 
 
-   ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/collatz.py.jpg) 
+   ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/collatz.py.jpg) 
 
    
 
@@ -50,7 +50,7 @@
 
      ​	An example of running this program on Thursday:
 
-  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/weekday.py Thursday.jpg)
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py Thursday.jpg)
 
   ​	An example of running this program on Saturday:
 
@@ -62,7 +62,7 @@
 
      ​	An example of running this program:
 
-![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/squareroot.py.jpg) 
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/squareroot.py.jpg) 
 
 
 
@@ -72,7 +72,7 @@
 
      ​	An example of running this program:
 
-![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/es.py.jpg) 
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/es.py.jpg) 
 
 7. ***<u>plot.py</u>***
 
@@ -86,13 +86,13 @@
 
 ------
 
-#### <u>License</u>
+#### _License_
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ------
 
-#### <u>Acknowledgments</u>
+#### _Acknowledgments_
 
 - Lecturers of GMIT for this module: Ian McLoughlin and Andrew Beatty 
 - https://stackoverflow.com/
