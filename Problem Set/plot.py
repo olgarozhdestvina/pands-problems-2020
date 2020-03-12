@@ -4,6 +4,7 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+x = np.linspace(0,4)
 
 def f(x):
     return x
@@ -11,8 +12,6 @@ def g(x):
     return x**2
 def h(x):
     return x**3
-
-x = np.linspace(0,4)
 
 #plot the function
 functions = [f, g, h]
@@ -23,4 +22,4 @@ for func in functions:
     plt.legend([('f(x)'), ('g(x)'), ('h(x)')])
 
 #show the plot
-plt.show()
+plt.show() 
