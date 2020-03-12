@@ -6,7 +6,7 @@
 
 *Lecturers:* Ian McLoughlin, Andrew Beatty 
 
-*Programming Language used:* Python
+*Programming Language used:* [Python](https://www.python.org/)
 
 ------
 
