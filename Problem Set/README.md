@@ -4,7 +4,7 @@
 
 *Submitted by:*                                     Olga Rozhdestvina (Student No: G00387844) 
 *Lecturers:*                                            Ian McLoughlin, Andrew Beatty 
-*Programming Language used:*         Python
+*Programming Language used:*          Python
 
 ------
 
@@ -13,11 +13,13 @@
 #### Full Description of Problem Set
 
 1. <u>*bmi.py*</u>
-  	A program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
+    	A program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
 
   ​	An example of running this program:
 
-  
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/bmi.py.jpg)
+
+
 
 2. <u>*secondstring.py*</u>
 
@@ -25,13 +27,17 @@
 
   ​	An example of running this program:
 
-  
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/secondstring.py.jpg)
+
+
 
 3. <u>*collatz.py*</u>
 
    ​	A program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
 
-   ​	An example of running this program:
+   ​	An example of running this program: 
+
+   ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/collatz.py.jpg) 
 
    
 
@@ -39,9 +45,9 @@
 
   ​	A program that outputs whether or not today is a weekday. 
 
-  ​	An example of running this program on Friday:
+  ​	An example of running this program on Thursday:
 
-  
+  ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/weekday.py Thursday.jpg)
 
   ​	An example of running this program on Saturday:
 
@@ -53,11 +59,17 @@
 
   ​	An example of running this program:
 
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/squareroot.py.jpg) 
+
+
+
 6. *<u>es.py</u>*
 
   ​	A program that reads in a text file and outputs the number of e's it contains. 
 
   ​	An example of running this program:
+
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem Set/Examples of running the code/es.py.jpg) 
 
 7. *<u>plot.py</u>*
 
@@ -65,6 +77,8 @@
 
    ​	An example of running this program:
 
+   
+   
    
 
 ------
