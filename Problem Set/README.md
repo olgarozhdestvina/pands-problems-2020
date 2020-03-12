@@ -17,7 +17,7 @@
 
   ​	An example of running this program:
 
-  ![] (Examples%20of%20running%20the%20code/bmi.py.jpg)
+  ![ ] (Examples%20of%20running%20the%20code/bmi.py.jpg)
 
 2. <u>*secondstring.py*</u>
 
