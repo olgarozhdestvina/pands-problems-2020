@@ -10,10 +10,49 @@ This document contains the Problem Set Solutions 2020 for Programming and Script
 
 ------
 
-### Full Description of Problem Set
+## Table of Contents
+
+*[Set Up](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#set-up)
+*[How to run the code](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#how-to-run-the-code)
+* [Full Description](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#full-description-of-the-problem-set)
+		* [bmi.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#bmi.py)
+		* [secondstring.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#secondstring.py)
+		* [collatz.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#collatz.py)
+		* [weekday.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#weekday.py)
+		* [squareroot.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#squareroot.py)
+		* [es.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#es.py)
+		* [plot.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#plot.py)
+* [License](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#license)
+* [Acknowledgment](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#acknowledgment)
+
+
+
+
+### Set up
+
+The raw data was taken from  [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris). 
+
+Programs used for completion of this project are: [Visual Studio Code](https://code.visualstudio.com/), [cmder](http://cmder.net/)
+
+Libraries used for the project are: [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), datetime. All of these are installed with the [Anaconda Python distribution](https://www.anaconda.com/). 
+
+ 
+
+###  How to run the code
+
+1. Make sure that you have Python installed
+2. Open Command Interpreter 
+3. Get into correct directory
+4. Run python code by typing *python example.py*
+
+------
+
+
+### Full Description of the Problem Set
 
 1. ***bmi.py***
     	
+
 A program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared.
     	
 An example of running this program: 
@@ -51,9 +90,10 @@ An example of running this program on Thursday:
 
   ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py%20Thursday.jpg)
 
-An example of running this program on Saturday:
+An example of running this program on Sunday:
+	![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py%20Sunday.jpg)
 
-  
+
 5. ***squareroot.py***
 
 
@@ -86,13 +126,21 @@ An example of running this program:
 ![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/plot.py.jpg)
 ------
 
-#### License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ------
 
-#### Acknowledgments
+
+
+
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+
+### Acknowledgment
 
 - Lecturers of GMIT for this module: Ian McLoughlin and Andrew Beatty 
 - https://stackoverflow.com/
