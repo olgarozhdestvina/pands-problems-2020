@@ -4,7 +4,7 @@ The repository consists of:
 
 - ***Weekly Lesson Practice***
 
-- ***Labs***: covering topics on Variables, Flow Control, Data Structure, Functions and File Manipulation.
+- ***Labs***: covering topics on Variables, Flow Control, Data Structure, Functions, File Manipulation and Errors.
 
 - ***Problem Set***: see separate README.md in the designated folder.
 
