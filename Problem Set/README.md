@@ -12,16 +12,9 @@ This document contains the Problem Set Solutions 2020 for Programming and Script
 
 ## Table of Contents
 
-*[Set Up](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#set-up)
-*[How to run the code](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#how-to-run-the-code)
+* [Set Up](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#set-up)
+* [How to run the code](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#how-to-run-the-code)
 * [Full Description](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#full-description-of-the-problem-set)
-* [bmi.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#bmi.py)
-* [secondstring.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#secondstring.py)
-* [collatz.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#collatz.py)
-* [weekday.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#weekday.py)
-* [squareroot.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#squareroot.py)
-* [es.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#es.py)
-* [plot.py](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#plot.py)
 * [License](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#license)
 * [Acknowledgment](https://github.com/olgarozhdestvina/pands-problems-2020/blob/master/Problem%20Set#acknowledgment)
 
@@ -88,11 +81,11 @@ A program that outputs whether or not today is a weekday.
 
 An example of running this program on Thursday:
 
-	![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py%20Thursday.jpg)
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py%20Thursday.jpg)
 
 An example of running this program on Sunday:
 
-	![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py%20Sunday.jpg)
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/weekday.py%20Sunday.jpg)
 
 
 5. ***squareroot.py***
@@ -103,7 +96,7 @@ A program that takes a positive floating-point number as input and outputs an ap
 An example of running this program:
 
 
-	![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/squareroot.py.jpg) 
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/squareroot.py.jpg) 
 
 
 
@@ -115,7 +108,7 @@ A program that reads in a text file and outputs the number of e's it contains.
 An example of running this program:
 
 
-	![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/es.py.jpg) 
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/es.py.jpg) 
 
 
 7. ***plot.py***
@@ -124,12 +117,10 @@ A program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in t
 
 An example of running this program:
 
-	![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/plot.py.jpg)
-------
-
-
+![](https://raw.githubusercontent.com/olgarozhdestvina/pands-problems-2020/master/Problem%20Set/Examples%20of%20running%20the%20code/plot.py.jpg)
 
 ------
+
 
 
 
