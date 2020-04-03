@@ -23,11 +23,9 @@ This document contains the Problem Set Solutions 2020 for Programming and Script
 
 ### Set up
 
-The raw data was taken from  [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris). 
+Programs used for completion of the problem sheet are: [Visual Studio Code](https://code.visualstudio.com/), [cmder](http://cmder.net/)
 
-Programs used for completion of this project are: [Visual Studio Code](https://code.visualstudio.com/), [cmder](http://cmder.net/)
-
-Libraries used for the project are: [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), datetime. All of these are installed with the [Anaconda Python distribution](https://www.anaconda.com/). 
+Libraries used are: [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), datetime. All of these are installed with the [Anaconda Python distribution](https://www.anaconda.com/). 
 
  
 
